@@ -3,8 +3,8 @@ Assignment in SQL
 
 TO DO: 
 There's been a crime! It is up to you to solve it. 
-The detective seems to have lost his notes but he managed to create a database for you to look into. 
-He remembers it was a cyber-crime and the location was at Yrgo. The date of the crime took place 2020-10-22. 
+The detectives Daniel and Ida seems to have lost their notes but managed to create a database for you to look into. 
+They remember it was a cybercrime and the location was at Yrgo. The date of the crime took place 2020-10-22. 
 
 
 CRIME: 
