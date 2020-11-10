@@ -34,4 +34,4 @@ WHERE car.card_number = 4929072437851742
 <br><br>
 Vincents statement "Yes I am sorry! I did not realise I deleted the whole thing until it was too late. I only thought I helped Elina with some work stuff. " 
 <br><br>
-Then you go to https://making-murder.netlify.app/ 
+Sedan studsar du vidare till https://making-murder.netlify.app/ och skriver det namnet du tror är skurken!
